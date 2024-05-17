@@ -94,7 +94,7 @@ body {
 
 }
 
-.apresentacao__links__link {
+.apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -112,7 +112,7 @@ body {
 
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     cursor: pointer;
     background-color: var(--cor-hover);
     /* padding: 22.5px 0; */
